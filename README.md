@@ -1,2 +1,6 @@
-# My-social-media-handles
-This is my social media with  icon 
+# social-media-icons
+
+the Social Media Icons Effect only by HTML & CSS.
+
+Thank you !!
+                  
